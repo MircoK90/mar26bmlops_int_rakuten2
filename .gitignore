@@ -153,3 +153,6 @@ models/*.pt
 models/*.pkl
 pth
 *.pth
+
+# mirc specific
+z_helper_img.py
